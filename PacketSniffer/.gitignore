@@ -3,3 +3,8 @@ bin/
 obj/
 *.user
 *.suo
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
+.env
+*.env
